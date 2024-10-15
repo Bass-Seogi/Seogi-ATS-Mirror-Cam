@@ -1,0 +1,19 @@
+effect : "eut2.dif.spec.tsnmapuv.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.957321 , 0.985103 , 1.000000 }
+	reflection : 0.000000
+	shininess : 80.000000
+	specular : { 0.572123 , 0.572123 , 0.572123 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/mack_anthem/interior/details.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/mack_anthem/interior/normal.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+}

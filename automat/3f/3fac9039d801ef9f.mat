@@ -1,0 +1,19 @@
+effect : "eut2.dif.spec.add.env.nofresnel.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	env_factor : { 1.000000 , 1.000000 , 1.000000 }
+	reflection : 0.000000
+	shininess : 50.000000
+	specular : { 1.000000 , 1.000000 , 1.000000 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/share/glass_ex.tobj"
+		sampler : default
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/vehicle_reflection.tobj"
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

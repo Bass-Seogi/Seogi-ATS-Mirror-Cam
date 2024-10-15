@@ -1,0 +1,21 @@
+effect : "eut2.dif.spec.weight.add.env.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.835354 , 0.835354 , 0.835354 }
+	env_factor : { 0.000000 , 0.000000 , 0.000000 }
+	fresnel : { 0.200000 , 0.900000 }
+	reflection : 0.000000
+	shininess : 40.000000
+	specular : { 0.025041 , 0.025041 , 0.025041 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/freightliner_cascadia2019/interior/external/ext_elite_tan.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/fuzzy_reflection/fuzzy_reflection.tobj"
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

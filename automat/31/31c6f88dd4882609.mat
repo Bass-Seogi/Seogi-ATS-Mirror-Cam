@@ -1,0 +1,23 @@
+effect : "eut2.dif.spec.weight.add.env.tsnmap.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	env_factor : { 0.050876 , 0.050876 , 0.050876 }
+	fresnel : { 1.000000 , 0.000000 }
+	reflection : 0.000000
+	shininess : 50.000000
+	specular : { 0.507079 , 0.507079 , 0.507079 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/kenworth_w900/interior/padded_leather_spl_bordeaux.tobj"
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/kenworth_w900/interior/padded_leather_spl_n.tobj"
+		sampler : default
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/soft_reflection/soft_reflection.tobj"
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

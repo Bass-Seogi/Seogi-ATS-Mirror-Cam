@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi_r.ma7.mirror
+{
+	name: "@@cam@@, @@rear@@"
+	price: 5300
+	unlock: 7
+	icon: "peterbilt_579/mirrors_01"
+	part_type: aftermarket
+	exterior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi7r.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi_int7r.pmd"
+}
+}

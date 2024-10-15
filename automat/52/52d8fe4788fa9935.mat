@@ -1,0 +1,15 @@
+effect : "eut2.dif.spec.tsnmapuv.decal.over.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	reflection : 0.000000
+	shininess : 50.000000
+	specular : { 0.214041 , 0.214041 , 0.214041 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/freightliner_cascadia2019/interior/detail.tobj"
+		sampler : default
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/freightliner_cascadia2019/interior/detail_n.tobj"
+		sampler : default
+	}
+}

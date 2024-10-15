@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.add.env.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/westernstar_49x/interior/leather_grey.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/westernstar_49x/interior/leather_n.tobj"
+	texture_name[1] : "texture_nmap"
+	texture[2] : "/material/environment/soft_reflection/soft_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.522522 , 0.522522 , 0.522522 }
+	env_factor : { 0.0196071 , 0.0196071 , 0.0196071 }
+	fresnel : { 1 , 0 }
+	reflection : 0
+	shininess : 20
+	specular : { 1 , 1 , 1 }
+}

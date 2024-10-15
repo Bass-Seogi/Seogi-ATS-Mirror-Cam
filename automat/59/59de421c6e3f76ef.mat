@@ -1,0 +1,15 @@
+effect : "eut2.dif.spec.weight.tsnmapuv.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.286211 , 0.286211 , 0.286211 }
+	reflection : 0.000000
+	shininess : 20.000000
+	specular : { 0.441237 , 0.441237 , 0.441237 }
+	texture : "texture_base" {
+		source : "/vehicle/share/textures/rubber/rubber_base.tobj"
+		sampler : default
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/freightliner_cascadia2019/normal.tobj"
+		sampler : default
+	}
+}

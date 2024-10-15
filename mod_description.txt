@@ -1,0 +1,26 @@
+﻿[blue]Seogi ATS Mirror Cam All Truck
+It will function normally from 1.51
+
+[red]My mod is only hosted in the workshop.
+If you find my mod on other sites, we do not support it.[normal]
+
+
+peterbilt.579 (Rear cam)
+kenworth.t680
+kenworth.w900 (Rear cam)
+peterbilt.389
+
+intnational.lonestar
+intnational.lt
+intnational.9900i
+
+mack.anthem (Rear cam)
+mack.pinnacle (Rear cam)
+
+freightliner.cascadia2019 (Rear cam)
+westernstar.49x
+westernstar.57x
+westernstar.5700xe
+
+volvo.vnl
+volvo.vnl2018

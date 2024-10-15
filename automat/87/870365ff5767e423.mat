@@ -1,0 +1,7 @@
+effect : "eut2.reflective.rfx" {
+	texture : "texture_base" {
+		source : "/vehicle/truck/peterbilt_579/details.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+}

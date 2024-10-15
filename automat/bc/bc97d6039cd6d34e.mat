@@ -1,0 +1,7 @@
+effect : "eut2.retroreflective.piko.alldir.rfx" {
+	texture : "texture_base" {
+		source : "/vehicle/truck/freightliner_cascadia2019/details_c.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+}

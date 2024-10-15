@@ -1,0 +1,12 @@
+effect : "eut2.dif.spec.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 2.000000 , 2.000000 , 2.000000 }
+	reflection : 0.000000
+	shininess : 40.000000
+	specular : { 0.318547 , 0.318547 , 0.318547 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/upgrade/ext_interior/peterbilt_579/details_excl.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+}

@@ -1,0 +1,15 @@
+effect : "eut2.dif.spec.tsnmap.shadow.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	reflection : 0.000000
+	shadowmap_bias : 0.000000
+	shininess : 20.000000
+	specular : { 0.318547 , 0.318547 , 0.318547 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/kenworth_w900/interior/ext_cabin_splendor_bordeaux.tobj"
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/kenworth_w900/interior/ext_cabin_splendor_n.tobj"
+		sampler : default
+	}
+}

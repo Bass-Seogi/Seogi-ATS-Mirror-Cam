@@ -1,0 +1,14 @@
+material : "eut2.truckpaint.airbrush.rfx" {
+	texture[0] : "/vehicle/truck/volvo_vnl/color_ao.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/vehicle_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/upgrade/paintjob/volvo_vnl/paintjob_02_bc.tobj"
+	texture_name[2] : "texture_paintjob"
+	add_ambient : 0
+	aux[8] : { 1 , 0 , 0 }
+	diffuse : { 1 , 1 , 1 }
+	fresnel : { 0.2 , 0.9 }
+	shininess : 250
+	specular : { 1 , 1 , 1 }
+}

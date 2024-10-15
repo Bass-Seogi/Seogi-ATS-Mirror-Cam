@@ -1,0 +1,20 @@
+effect : "eut2.dif.spec.weight.add.env.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.203102 , 0.203102 , 0.203102 }
+	env_factor : { 1.000000 , 1.000000 , 1.000000 }
+	fresnel : { 1.000000 , 1.000000 }
+	reflection : 0.000000
+	shininess : 70.000000
+	specular : { 1.000000 , 1.000000 , 1.000000 }
+	texture : "texture_base" {
+		source : "/vehicle/share/textures/metal/chrome_base.tobj"
+		sampler : default
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/interior_static/interior_static.tobj"
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

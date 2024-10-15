@@ -1,0 +1,38 @@
+SiiNunit
+{
+accessory_cabin_data : s70.mack.pinnacle.cabin
+{
+	name: "70@@unit_in@@ Sleeper"
+	price: 34800
+	unlock: 20
+	icon: "mack_pinnacle/cab_s70"
+	part_type: factory
+
+	model: "/vehicle/truck/mack_pinnacle/cabin/cabin_s70.pmd"
+	collision: "/vehicle/truck/mack_pinnacle/cabin/cabin_s70.pmc"
+	variant: default
+	look: default
+
+	wiper_model: "/vehicle/truck/mack_pinnacle/cabin/wiper.pmd"
+	wiper_anim: "/vehicle/truck/mack_pinnacle/cabin/wiper_anim.pma"
+
+	windows_model: "/vehicle/truck/mack_pinnacle/cabin/win_open.pmd"
+	left_window_anim: "/vehicle/truck/mack_pinnacle/cabin/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/mack_pinnacle/cabin/win_open_r.pma"
+
+	suspension_type: hinge2air
+
+	conflict_with[]: "6x4s.mack.pinnacle.chassis"
+	conflict_with[]: "6x2s.mack.pinnacle.chassis"
+	conflict_with[]: "6x4m.mack.pinnacle.chassis"
+	conflict_with[]: "6x2m.mack.pinnacle.chassis"
+
+	defaults[]: "/def/vehicle/truck/mack.pinnacle/chassis/6x2_long.sii"
+	defaults[]: "/def/vehicle/truck/mack.pinnacle/interior/s70_standard.sii"
+	defaults[]: "/def/vehicle/truck/mack.pinnacle/accessory/rear_cab/s70_black.sii"
+	defaults[]: "/def/vehicle/truck/mack.pinnacle/accessory/slp_hndl/stock.sii"
+	defaults[]: "/def/vehicle/truck/mack.pinnacle/accessory/windowtrim/s70_stock.sii"
+
+@include "sound.sui"
+}
+}

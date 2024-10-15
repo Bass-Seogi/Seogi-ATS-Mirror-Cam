@@ -1,0 +1,44 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.kenworth.w900	
+{
+	info[]: "@@brand_kenworth@@"
+	info[]: "@@series_kenworth_w900@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.kenworth.w900
+	interior_camera_oculus: camera.interior.kenworth.w900.oculus
+	bumper_camera: camera.bumper.kenworth.w900
+	window_camera: camera.window.kenworth.w900
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|long1.sii"
+	fallback[]: "cabin|standard.sii"
+	fallback[]: "engine|isx12.sii"
+	fallback[]: "transmission|10_speed.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_05.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_02_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_05.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_02_steel.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "paint_job|color3.sii"
+	fallback[]: "interior|standard.sii"
+	fallback[]: "mirror|shape1.sii"
+
+
+	require[]: bumper
+	require[]: exhaust
+	require[]: filters
+	require[]: mudflaps
+	require[]: steering_w
+}
+}

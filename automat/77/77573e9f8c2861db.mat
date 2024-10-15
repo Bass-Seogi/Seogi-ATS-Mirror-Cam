@@ -1,0 +1,15 @@
+effect : "eut2.dif.spec.tsnmapuv.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 1.000000 , 1.000000 , 1.000000 }
+	reflection : 0.000000
+	shininess : 32.000000
+	specular : { 1.000000 , 1.000000 , 1.000000 }
+	texture : "texture_base" {
+		source : "/vehicle/share/textures/plastic/shared_plastic_dark.tobj"
+		sampler : default
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/kenworth_w900/interior/pedal_n.tobj"
+		sampler : default
+	}
+}

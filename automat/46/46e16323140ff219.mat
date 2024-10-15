@@ -1,0 +1,26 @@
+effect : "eut2.dif.spec.add.env.tsnmapuv.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.450482 , 0.450482 , 0.450482 }
+	env_factor : { 0.999998 , 0.999998 , 0.999998 }
+	fresnel : { 0.200000 , 0.900000 }
+	reflection : 0.000000
+	shininess : 60.000000
+	specular : { 0.425838 , 0.425838 , 0.425838 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/peterbilt_579/interior/details.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/peterbilt_579/interior/int_big_no.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/interior_reflection.tobj"
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

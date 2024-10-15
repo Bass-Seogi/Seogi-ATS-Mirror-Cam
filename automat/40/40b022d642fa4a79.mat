@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/westernstar_49x/color.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/soft_reflection/soft_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/westernstar_49x/interior/detail_n.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.380056 , 0.380056 , 0.380056 }
+	env_factor : { 0.015325 , 0.015325 , 0.015325 }
+	fresnel : { 0.5 , 1 }
+	reflection : 0
+	shininess : 18
+	specular : { 1 , 1 , 1 }
+}

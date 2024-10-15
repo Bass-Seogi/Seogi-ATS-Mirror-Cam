@@ -1,0 +1,26 @@
+﻿[blue]서기 ATS 미러캠 모든 트럭
+1.51 부터 정상 작동합니다
+
+[red]내 모드는 창작마당에만 올려 집니다.
+다른 사이트에서 내 모드를 찾아도 지원하지 않습니다.[normal]
+
+
+peterbilt.579 (후방캠)
+kenworth.t680
+kenworth.w900 (후방캠)
+peterbilt.389
+
+intnational.lonestar
+intnational.lt
+intnational.9900i
+
+mack.anthem (후방캠)
+mack.pinnacle (후방캠)
+
+freightliner.cascadia2019 (후방캠)
+westernstar.49x
+westernstar.57x
+westernstar.5700xe
+
+volvo.vnl
+volvo.vnl2018

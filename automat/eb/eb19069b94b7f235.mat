@@ -1,0 +1,24 @@
+effect : "eut2.dif.spec.weight.add.env.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.085690 , 0.085690 , 0.085690 }
+	env_factor : { 0.022573 , 0.022573 , 0.022573 }
+	fresnel : { 0.200000 , 0.900000 }
+	reflection : 0.000000
+	shininess : 15.000000
+	specular : { 0.176495 , 0.176495 , 0.176495 }
+	texture : "texture_base" {
+		source : "/vehicle/share/textures/metal/chassis_base.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/interior_static/interior_static.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

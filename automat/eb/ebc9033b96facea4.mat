@@ -1,0 +1,14 @@
+effect : "eut2.dif.spec.decal.over.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.015127 , 0.015127 , 0.015127 }
+	reflection : 0.000000
+	shininess : 10.000000
+	specular : { 0.011310 , 0.011310 , 0.011310 }
+	queue_bias : 0
+	texture : "texture_base" {
+		source : "/vehicle/truck/peterbilt_389/interior/fishnet.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+}
