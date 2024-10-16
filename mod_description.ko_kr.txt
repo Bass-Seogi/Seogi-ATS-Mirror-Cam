@@ -19,6 +19,7 @@ mack.anthem (후방캠)
 mack.pinnacle (후방캠)
 
 freightliner.cascadia2019 (후방캠)
+freightliner.cascadia2024 (후방캠)
 westernstar.49x
 westernstar.57x
 westernstar.5700xe

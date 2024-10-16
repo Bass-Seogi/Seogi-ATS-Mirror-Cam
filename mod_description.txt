@@ -19,6 +19,7 @@ mack.anthem (Rear cam)
 mack.pinnacle (Rear cam)
 
 freightliner.cascadia2019 (Rear cam)
+freightliner.cascadia2024 (Rear cam)
 westernstar.49x
 westernstar.57x
 westernstar.5700xe
