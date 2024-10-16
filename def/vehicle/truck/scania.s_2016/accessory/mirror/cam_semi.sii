@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.mass16.mirror
+{
+	name: "@@camera@@"
+	price: 5100
+	unlock: 7
+	icon: "peterbilt_579/mirrors_01"
+	part_type: aftermarket
+	exterior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi14.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi_int14.pmd"
+	coll: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi14.pmc"
+}
+}

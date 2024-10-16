@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi_rp8.masr16.mirror
+{
+	name: "@@cam@@, @@rear@@ @@paint@@"
+	price: 5205
+	unlock: 7
+	icon: "peterbilt_579/mirrors_01"
+	part_type: aftermarket
+	exterior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi14r8.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi_int14rp.pmd"
+	coll: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi14r8.pmc"
+	suitable_for[]: "highline_8x4.scania.r_2016.cabin"
+}
+}
