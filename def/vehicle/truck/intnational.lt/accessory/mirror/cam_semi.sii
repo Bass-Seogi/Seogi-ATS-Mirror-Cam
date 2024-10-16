@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : cam_semi.mailt.mirror
+accessory_addon_data : cam_semi.ilt.mirror
 {
 	name: "@@camera@@"
 	price: 5100

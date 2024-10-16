@@ -7,6 +7,7 @@ If you find my mod on other sites, we do not support it.[normal]
 
 peterbilt.579 (Rear cam)
 kenworth.t680
+kenworth.t680_2022
 kenworth.w900 (Rear cam)
 peterbilt.389
 

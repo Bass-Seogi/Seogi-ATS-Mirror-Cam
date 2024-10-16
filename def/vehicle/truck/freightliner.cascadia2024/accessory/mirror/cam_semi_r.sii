@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : cam_semi_r.fc19.mirror
+accessory_addon_data : cam_semi_r.fc24.mirror
 {
 	name: "@@cam@@, @@rear@@"
 	price: 5200
