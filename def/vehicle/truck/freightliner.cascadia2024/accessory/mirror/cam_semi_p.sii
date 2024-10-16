@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_addon_data : cam_semi_p.fc19.mirror
+accessory_addon_data : cam_semi_p.fc24.mirror
 {
 	name: "@@camera@@ @@paint@@"
 	price: 5150

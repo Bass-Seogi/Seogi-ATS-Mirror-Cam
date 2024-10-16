@@ -7,6 +7,7 @@
 
 peterbilt.579 (후방캠)
 kenworth.t680
+kenworth.t680_2022
 kenworth.w900 (후방캠)
 peterbilt.389
 
@@ -18,6 +19,7 @@ mack.anthem (후방캠)
 mack.pinnacle (후방캠)
 
 freightliner.cascadia2019 (후방캠)
+freightliner.cascadia2024 (후방캠)
 westernstar.49x
 westernstar.57x
 westernstar.5700xe

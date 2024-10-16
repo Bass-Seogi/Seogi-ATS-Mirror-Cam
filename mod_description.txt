@@ -7,6 +7,7 @@ If you find my mod on other sites, we do not support it.[normal]
 
 peterbilt.579 (Rear cam)
 kenworth.t680
+kenworth.t680_2022
 kenworth.w900 (Rear cam)
 peterbilt.389
 
@@ -18,6 +19,7 @@ mack.anthem (Rear cam)
 mack.pinnacle (Rear cam)
 
 freightliner.cascadia2019 (Rear cam)
+freightliner.cascadia2024 (Rear cam)
 westernstar.49x
 westernstar.57x
 westernstar.5700xe
