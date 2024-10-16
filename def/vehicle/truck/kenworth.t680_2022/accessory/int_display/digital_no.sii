@@ -1,0 +1,12 @@
+SiiNunit
+{
+
+accessory_addon_data : dig_no.kenworth.t680_2022.int_display
+{
+
+	icon: "peterbilt_579/mirrors_01"
+	
+	exterior_model: "/vehicle/truck/kenworth_t680_2022/accessory/int_display/digital_mirror.pmd"
+	# interior_model: "/vehicle/truck/kenworth_t680_2022/accessory/int_display/digital_mirror_int.pmd"
+}
+}

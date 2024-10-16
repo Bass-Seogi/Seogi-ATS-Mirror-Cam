@@ -1,14 +1,14 @@
 SiiNunit
 {
-accessory_addon_data : cam_semi.kt62.mirror
+accessory_addon_data : cam_semi_p.kt62.mirror
 {
-	name: "@@camera@@"
-	price: 5100
+	name: "@@camera@@ @@paint@@"
+	price: 5150
 	unlock: 7
 	icon: "peterbilt_579/mirrors_01"
 	part_type: aftermarket
 	exterior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi102.pmd"
-	interior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi_int102.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi_int102p.pmd"
 
 	overrides[]: "/def/vehicle/truck/kenworth.t680_2022/accessory/int_display/digital_no.sii"
 }

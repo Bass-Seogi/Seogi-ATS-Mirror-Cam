@@ -6,8 +6,8 @@
 
 
 peterbilt.579 (후방캠)
-kenworth.t680
-kenworth.t680_2022
+kenworth.t680 (후방캠)
+kenworth.t680_2022 (후방캠)
 kenworth.w900 (후방캠)
 peterbilt.389
 
