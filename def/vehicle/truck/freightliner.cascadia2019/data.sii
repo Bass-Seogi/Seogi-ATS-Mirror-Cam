@@ -1,0 +1,39 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.freightliner.cascadia2019
+{
+	info[]: "@@brand_freightliner@@"
+	info[]: "@@series_freightliner_cascadia2019@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.freightliner.cascadia2019
+	interior_camera_oculus: camera.interior.freightliner.cascadia2019.oculus
+	bumper_camera: camera.bumper.basic
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|6x2_short_120.sii"
+	fallback[]: "cabin|day.sii"
+	fallback[]: "engine|dd13_370.sii"
+	fallback[]: "transmission|10_speed.sii"
+	fallback[]: "interior|day_std_gray.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_04.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_02_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_04.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_02_steel.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "paint_job|color0.sii"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/transmission/10_speed.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2019/engine/dd13_370.sii"
+}
+}

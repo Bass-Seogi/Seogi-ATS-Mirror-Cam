@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : cam_w.fc19.mirror
+{
+	name: "@@camera@@ @@wood@@"
+	price: 5150
+	unlock: 7
+	icon: "peterbilt_579/mirrors_01"
+	part_type: aftermarket
+	exterior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_semi3.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/peterbilt_579/cam_int3w.pmd"
+}
+}

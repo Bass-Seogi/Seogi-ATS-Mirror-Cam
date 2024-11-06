@@ -1,0 +1,49 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.freightliner.cascadia2024
+{
+	info[]: "@@brand_freightliner@@"
+	info[]: "@@series_freightliner_cascadia2024@@"
+
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.freightliner.cascadia2024
+	interior_camera_oculus: camera.interior.freightliner.cascadia2024.oculus
+	bumper_camera: camera.bumper.basic
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+
+	fallback[]: "chassis|6x2_short_120.sii"
+	fallback[]: "cabin|day.sii"
+	fallback[]: "engine|dd13_370.sii"
+	fallback[]: "transmission|dt12_he.sii"
+	fallback[]: "interior|day_22_gray.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_04.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_02_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_04.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_02_steel.sii"
+	fallback[]: "head_light|daylight.sii"
+	fallback[]: "paint_job|color0.sii"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/transmission/dt12_he.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/engine/dd13_370.sii"
+
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/bumper/plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/doorhndl/plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/f_light_chs/daylight.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/filters/plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/grill/plastic.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/hood/stock.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/mudflaps/standard.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/steering_w/standard.sii"
+	defaults[]: "/def/vehicle/truck/freightliner.cascadia2024/accessory/trlr_cables/stock.sii"
+}
+}

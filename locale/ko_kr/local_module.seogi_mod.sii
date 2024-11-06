@@ -29,11 +29,8 @@ localization_db : .localization
 	key[]: "camera"
 	val[]: "카메라"
 
-	key[]: "cam"
-	val[]: "캠"
-
-	key[]: "rear"
-	val[]: "후방"
+	key[]: "cam_rear"
+	val[]: "후방캠"
 
 	key[]: "slim"
 	val[]: "슬림"
@@ -42,6 +39,6 @@ localization_db : .localization
 	val[]: "안개등"
 
 	key[]: "wood"
-	val[]: "나무"
+	val[]: "우드"
 }
 }
