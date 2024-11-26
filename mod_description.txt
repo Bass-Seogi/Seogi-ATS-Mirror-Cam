@@ -9,7 +9,7 @@ peterbilt.579 (Rear cam)
 kenworth.t680 (Rear cam)
 kenworth.t680_2022 (Rear cam)
 kenworth.w900 (Rear cam)
-peterbilt.389
+peterbilt.389 (Rear cam)
 
 intnational.lonestar
 intnational.lt
