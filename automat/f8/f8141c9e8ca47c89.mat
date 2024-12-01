@@ -1,0 +1,19 @@
+effect : "eut2.dif.spec.weight.tsnmap.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.936232 , 0.936232 , 0.936232 }
+	reflection : 0.000000
+	shininess : 30.000000
+	specular : { 0.227503 , 0.227503 , 0.227503 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/kenworth_t680_2022/interior/bedside_c.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/kenworth_t680_2022/interior/bedside_n.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+}
